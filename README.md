@@ -3,6 +3,14 @@
 A **data analysis project** to explore and visualize **Diwali sales trends** using Python.  
 This project uncovers **key insights about customer behavior, top-performing states, occupations, and product categories** — helping businesses make **data-driven marketing decisions** during festive seasons.
 
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![Data](https://img.shields.io/badge/Data-CSV-green)
+![Libraries](https://img.shields.io/badge/Libraries-Pandas%2FNumPy-yellow)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%2FSeaborn-orange)
+![Skill](https://img.shields.io/badge/Skill-Data_Cleaning_&_Analysis-lightgreen)
+![Focus](https://img.shields.io/badge/Focus-Diwali_Sales_Insights-red)
+![Mode](https://img.shields.io/badge/Update-Historical_Data-purple)
+
 ---
 
 ## 📊 Project Overview
@@ -29,11 +37,13 @@ This analysis uses a **real-world Diwali sales dataset** to understand:
 
 ## ⚙️ Tools & Libraries Used
 
-![Python](https://img.shields.io/badge/Language-Python-blue)
-![Pandas](https://img.shields.io/badge/Library-Pandas-yellow)
-![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-red)
-![Seaborn](https://img.shields.io/badge/Library-Seaborn-green)
-![Jupyter](https://img.shields.io/badge/Environment-Jupyter_Notebook-orange)
+| Tool/Technology | Purpose |
+|-----------------|---------|
+| Python (Pandas, NumPy) | Data cleaning, manipulation, and analysis |
+| Matplotlib | Visualizing trends and patterns in sales data |
+| Seaborn | Creating advanced statistical plots and heatmaps |
+| CSV | Storing raw sales data for analysis |
+| Analytical Thinking | Deriving insights from data and trends |
 
 ---
 
@@ -152,3 +162,7 @@ jupyter notebook Diwali_Sales_Analysis.ipynb
 🔗 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | [GitHub](https://github.com/Harsh-Belekar)
 
 📧 **harshbelekar74@gmail.com**
+
+---
+
+⭐ *If you liked this project, don’t forget to star the repo and connect with me on LinkedIn!*
